@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/extremeresto/static/css/main.77e10180.chunk.css",
+    "main.js": "/extremeresto/static/js/main.e2b79798.chunk.js",
+    "main.js.map": "/extremeresto/static/js/main.e2b79798.chunk.js.map",
+    "runtime-main.js": "/extremeresto/static/js/runtime-main.ca3c28b7.js",
+    "runtime-main.js.map": "/extremeresto/static/js/runtime-main.ca3c28b7.js.map",
+    "static/js/2.63318375.chunk.js": "/extremeresto/static/js/2.63318375.chunk.js",
+    "static/js/2.63318375.chunk.js.map": "/extremeresto/static/js/2.63318375.chunk.js.map",
+    "static/js/3.28c41cfb.chunk.js": "/extremeresto/static/js/3.28c41cfb.chunk.js",
+    "static/js/3.28c41cfb.chunk.js.map": "/extremeresto/static/js/3.28c41cfb.chunk.js.map",
+    "index.html": "/extremeresto/index.html",
+    "static/css/main.77e10180.chunk.css.map": "/extremeresto/static/css/main.77e10180.chunk.css.map",
+    "static/js/2.63318375.chunk.js.LICENSE.txt": "/extremeresto/static/js/2.63318375.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca3c28b7.js",
+    "static/js/2.63318375.chunk.js",
+    "static/css/main.77e10180.chunk.css",
+    "static/js/main.e2b79798.chunk.js"
+  ]
+}
